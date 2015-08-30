@@ -1,0 +1,339 @@
+body
+{
+	padding:0px;
+	margin:0px;
+	background:#eee;
+}
+#main
+{
+	margin:25px auto;
+	width:900px;
+	padding:10px;
+	min-height:250px;
+	background:#fff;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+}
+#main1, #main2
+{
+	float:left;
+	width:900px;
+	min-height:100px;
+}
+#main3
+{
+	height:5px;
+	background:#86C775;
+	float:left;
+	width:900px;
+}
+#main4
+{
+	height:50px;
+	background:#f2f2f2;
+	float:left;
+	width:890px;
+	padding-left:10px;
+	-webkit-border-bottom-right-radius: 10px;
+	-webkit-border-bottom-left-radius: 10px;
+	-moz-border-radius-bottomright: 10px;
+	-moz-border-radius-bottomleft: 10px;
+	border-bottom-right-radius: 10px;
+	border-bottom-left-radius: 10px;
+	font-family:Verdana,Arial,Helvetica,sans-serif;
+	text-align:center;
+
+}
+#main11
+{
+	float:left;
+	text-align:center;
+	background-repeat:no-repeat;
+	background-position:50% 50%;
+	background-color:#EEEEEE;
+	width:180px;
+	min-height:135px;
+	-webkit-border-top-left-radius: 10px;
+	-webkit-border-bottom-left-radius: 10px;
+	-moz-border-radius-topleft: 10px;
+	-moz-border-radius-bottomleft: 10px;
+	border-top-left-radius: 10px;
+	border-bottom-left-radius: 10px;
+}
+#main12
+{
+	float:left;
+	width:720px;
+	height:135px;
+	-webkit-border-top-right-radius: 10px;
+	-webkit-border-bottom-right-radius: 10px;
+	-moz-border-radius-topright: 10px;
+	-moz-border-radius-bottomright: 10px;
+	border-top-right-radius: 10px;
+	border-bottom-right-radius: 10px;
+	background:#007814;
+	background-image:url("../images/banner_flag.jpg");
+	background-repeat:no-repeat;
+	background-position:100% 0%;
+	font-family:Verdana,Arial,Helvetica,sans-serif;
+}
+#p1
+{
+	color:#95E17D;
+	font-size:28px;
+	line-height:75px;
+	font-weight:bold;
+	padding:0 0 5px 5px;
+	border-bottom:1px solid #95E17D;
+	margin-top:15px;
+	margin-bottom:0px;
+	height:70px;
+}
+
+#p3
+{
+	margin:0px;
+	padding-right:10px;
+	text-align:right;
+	line-height:40px;
+	font-size:11px;
+	color:#00CC99;
+	width:400px;
+	float:right;
+}
+#main12 a
+{
+	display:block;
+	width:150px;
+	float:left;
+	line-height:35px;
+	text-decoration:none;
+	margin:5px 0 0 60px;
+	background:#17AD6D;
+	text-align:center;
+	font-family:Comic Sans MS;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	color:blue;
+}
+#main12 a:hover
+{
+	text-decoration:underline;
+	font-weight:bold;
+}
+#main21
+{
+	margin:20px auto;
+	width:600px;
+	min-height:200px;
+	border: 1px solid #aaa;
+	font-family:Comic Sans MS;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+	background:#EEEEEE;
+}
+#search
+{
+	width:510px;
+	margin:25px 0px auto;
+	min-height:200px;
+	margin-bottom:25px;
+}
+#search1
+{
+	width:510px;
+	min-height:20px;
+}
+
+#sea1
+{
+	width:200px;
+	height:30px;
+	float:left;
+	padding:10px 0px;
+	line-height:25px;
+	
+}
+#sea1 input, #select
+{
+	width:180px;
+	height:25px;
+	text-align:center;
+	position:relative; right:18px;
+}
+.lll input
+{
+	text-align:center;
+	height:25px;
+}
+
+.lll
+{
+	width:200px;
+	float:left;
+	height:25px;
+	padding:10px 0px;
+	line-height:25px;
+	position:relative; right:20px;
+}
+
+
+#sea2
+{
+	width:100px;
+	height:30px;
+	float:left;
+	padding:10px 0px;
+	position:relative; left:22px;
+}
+
+#main4 p
+{
+	font-size:11px;
+	color:#666666;
+	margin-top:20px;
+}
+
+/* start for database.php page*/
+#input1
+{
+	width:400px;
+	margin-bottom:10px;
+	float:left;
+	min-height:400px;
+}
+#in, #int
+{
+	width:400px;
+	float:left;
+	height:30px;
+	border-bottom:1px solid #ccc;
+	margin-bottom:10px;
+}
+#int
+{
+	margin-bottom:5px;
+	border-bottom:0px;
+}
+#in1,#in2
+{
+	width:180px;
+	float:left;
+	height:25px;
+	line-height:30px;
+}
+#in1
+{
+	text-align:left;
+}
+#in2
+{
+	width:220px;
+}
+#in2 input
+{
+	width:100%;
+	height:25px;
+	text-align:center;
+}
+/* start for database.php page*/
+
+#good
+{
+	border-collapse:collapse;
+	text-align:center;
+}
+#dus
+{
+	;
+	background:#95B9EB;
+	font-size:10px;
+}
+#du1
+{
+	background:#7FCF70;
+	font-size:8px;
+}
+#du2
+{
+	background:#F6F670;
+	font-size:8px;
+}
+#du3
+{
+	background:#D94E2D;
+	font-size:16px;
+}
+#dus1
+{
+	background:#D9EFFC;
+	font-size:8px;
+}
+#dus2
+{
+	background:#D8E0F5;
+	font-size:8px;
+}
+
+/*******FOR DELETE.PHP *********/
+#bad
+{
+	height:400px;
+	overflow:hidden;
+}
+#del
+{
+	background:#ccc;
+	height:180px;
+	width:500px;
+	margin:100px auto;
+	text-align:center;
+	line-height:40px;
+	font-size:20px;
+	font-weight:bold;overflow:hidden;
+}
+#del1
+{
+	height:150px;
+	width:500px;
+	overflow:hidden;
+}
+#del1 input
+{
+width:70px;
+}
+h3
+{
+	color:red;
+	font-family:Verdana,Arial,Helvetica,sans-serif;
+	text-align:center;
+}
+#main12 ul
+{
+	padding:0px;
+	margin:0px;
+}
+#main12 li
+{
+	width:auto;
+	list-style:none;
+	position:relative;
+	float:left;
+}
+#main12 ul ul
+{
+	display:none;
+	
+	width:150px;
+}
+#main12 li  li
+{
+	float:none;
+}
+#main12 li:hover ul
+{
+	display:block;
+}
